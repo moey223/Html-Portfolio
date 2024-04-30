@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+ <html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <title>Tarek's Portfolio</title>
+    </head>
+    <body>
+        <h1>Mohamed Tarek's Portfolio</h1>
+        <h2>I'm a Web Developer</h2>
+        <hr />
+        <h2>My past projects:</h2>
+        <h3>Movies ranking website:</h3>
+       <a href ="public/movie-ranking.html"><img src = "./assets/images/BestMov.png" alt = "Best Movies According to Tarek" width =400 ></a>
+        <hr />
+        <h2>Birthday invite</h2>
+        <a href = "public/birthday-invite.html"><img src = "assets/images/image.png" alt = "Birthday cake" width = 400></a>
+        <br />
+        <a href = "public/contact.html">Contact me</a>
+        &
+        <a href = "public/about.html">              About me</a>
+        <h2>Make sure to press the pictures for links of their websites ;)</h2>
+    </body>
+</html>
